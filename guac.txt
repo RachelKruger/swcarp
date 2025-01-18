@@ -1,7 +1,8 @@
 avocado
 salt
-lime juice
-garlic
+lemon juice
+chili
+basil
 cumin
 tomato
 red onion
